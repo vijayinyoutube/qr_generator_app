@@ -45,9 +45,7 @@ Visit my channel 👉 : https://www.youtube.com/c/vijaycreationsflutter
 <div align="center">
 
 
-[<image src="https://user-images.githubusercontent.com/58719230/208017027-2d0082b1-06ce-47e8-8064-4202ffe377d7.png">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
-
-[<image src="https://user-images.githubusercontent.com/58719230/208017032-9b84fe80-13ad-4c2e-9fec-c076f6a13a03.png">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<image src="https://user-images.githubusercontent.com/58719230/208017027-2d0082b1-06ce-47e8-8064-4202ffe377d7.png" width="250" height="550">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [<image src="https://user-images.githubusercontent.com/58719230/208017032-9b84fe80-13ad-4c2e-9fec-c076f6a13a03.png" width="250" height="550">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 
 
