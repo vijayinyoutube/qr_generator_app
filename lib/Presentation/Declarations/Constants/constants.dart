@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-Color primaryColor = const Color(0xff293462);
-Color secondaryColor = const Color(0xff243A73);
+Color primaryColor = const Color(0xffEB455F);
+Color secondaryColor = const Color(0xffFF8E9E);
 Color accentColor = const Color(0xff7C3E66);
 
 double kSpacing = 20.00;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qr_generator_app/Presentation/Screens/Homepage/UI/home_page.dart';
+import '../Screens/Homepage/UI/home_page.dart';
 
 class RouteGenerator {
   Route<dynamic> generateRoute(RouteSettings settings) {
