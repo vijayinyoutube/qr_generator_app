@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qr_generator_app/Presentation/Routes/generated_routes.dart';
+import 'Presentation/Routes/generated_routes.dart';
 
 void main() {
   runApp(const MyApp());
