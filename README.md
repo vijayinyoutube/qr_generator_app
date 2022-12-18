@@ -20,6 +20,12 @@
 </div>
 
 
+<p align="center">
+
+[<img src="https://user-images.githubusercontent.com/58719230/208298116-f15509da-937a-4e46-8b4b-0818d396a79c.png" width="100%">](https://youtu.be/NkOXry6jbTQ)
+
+</p>
+
 
 
 
@@ -31,7 +37,7 @@
 
 ## App
   
-Check out the video tutorial 👉 : https://youtube.com/shorts/5aPJsL45pmU?feature=share
+Check out the video tutorial 👉 : https://youtu.be/FOUQJjT10HQ
 
 To know more awesome content about Flutter., 
 
